@@ -64,4 +64,6 @@ TARGET_EXTRACTION/
 
 ## 开发者信息
 如有问题或建议，欢迎联系开发者。
+Email：shenzirui0314@gamil.com
+![image](https://github.com/user-attachments/assets/b7b95173-4dbf-4726-99d6-72a5205f655f)
 
